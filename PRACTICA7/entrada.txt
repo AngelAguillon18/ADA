@@ -1,0 +1,1 @@
+soy aguillon mora angel, autor de este programa. la fecha de entrega es el veintiuno de mayo del dos mil veinticinco. este programa implementa el algoritmo de huffman para comprimir texto. convierte el contenido en codigo binario utilizando frecuencias de letras. posteriormente puede descomprimirlo usando el mismo arbol de huffman y recuperar el texto original.

@@ -1,0 +1,1 @@
+Este programa codifica texto usando el algoritmo de Huffman. Primero normaliza el texto, elimina simbolos y convierte a minusculas. Luego crea un arbol binario y asigna codigos binarios a cada caracter. Finalmente comprime el texto, lo guarda y permite decodificarlo. Autor: Aguillon Mora Angel. Fecha: 21 de mayo del 2025.
